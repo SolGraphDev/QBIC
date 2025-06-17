@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/qbicmcp-qbic-badge.png)](https://mseep.ai/app/qbicmcp-qbic)
+
 # QBIC: Multi-Agent Programming Across Creative Tools
 
 **QBIC** is a next-generation agent orchestration framework that enables intelligent agents to control and coordinate actions across creative and technical tools in real time using the **Model Context Protocol (MCP)**.
